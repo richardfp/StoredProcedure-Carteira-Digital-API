@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CARTEIRA-DIGITAL", "src\CARTEIRA-DIGITAL\CARTEIRA-DIGITAL.csproj", "{15963CF5-8448-4E00-8B62-AC3700BA230F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15963CF5-8448-4E00-8B62-AC3700BA230F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15963CF5-8448-4E00-8B62-AC3700BA230F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15963CF5-8448-4E00-8B62-AC3700BA230F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15963CF5-8448-4E00-8B62-AC3700BA230F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62128D2F-BA3B-4CD8-A7F4-15739385BC0E}
+	EndGlobalSection
+EndGlobal
