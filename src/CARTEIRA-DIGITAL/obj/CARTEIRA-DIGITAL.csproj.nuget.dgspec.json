@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj": {}
+    "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj": {}
   },
   "projects": {
-    "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj": {
+    "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+        "projectUniqueName": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
         "projectName": "CARTEIRA-DIGITAL",
-        "projectPath": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
-        "packagesPath": "C:\\Users\\Richard Filipe Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\obj\\",
+        "projectPath": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+        "packagesPath": "C:\\Users\\Richard-W3\\.nuget\\packages\\",
+        "outputPath": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Richard Filipe Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Richard-W3\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"
@@ -53,6 +57,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -74,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

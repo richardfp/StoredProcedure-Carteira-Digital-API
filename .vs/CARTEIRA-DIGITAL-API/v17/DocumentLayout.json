@@ -1,10 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\",
+  "WorkspaceRootPath": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\hubs\\carteira-digital\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\outbound\\sql\\repositorylayer\\carteirarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\outbound\\sql\\repositorylayer\\carteirarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\domain\\core\\ports\\outbound\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\domain\\core\\ports\\outbound\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\infra\\registers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\infra\\registers\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\outbound\\sql\\settings\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\outbound\\sql\\settings\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\domain\\application\\usecase\\carteirausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\domain\\application\\usecase\\carteirausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\inbound\\rest\\endpoints\\carteiraendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\inbound\\rest\\endpoints\\carteiraendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\domain\\core\\ports\\outbound\\icarteirausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\domain\\core\\ports\\outbound\\icarteirausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\domain\\core\\ports\\outbound\\icarteirarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\domain\\core\\ports\\outbound\\icarteirarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\inbound\\rest\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\inbound\\rest\\dto\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\inbound\\rest\\mappers\\mapperendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\inbound\\rest\\mappers\\mapperendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\outbound\\sql\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\outbound\\sql\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\adapter\\outbound\\sql\\mappers\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\adapter\\outbound\\sql\\mappers\\mappingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\domain\\core\\domainmodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\domain\\core\\domainmodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\carteira-digital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\carteira-digital.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|c:\\devcsharp\\storedprocedure-carteira-digital-api\\src\\carteira-digital\\carteira-digital.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{15963CF5-8448-4E00-8B62-AC3700BA230F}|src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj|solutionrelative:src\\carteira-digital\\carteira-digital.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +74,200 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ISqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ISqlConnectionFactory.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ISqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ISqlConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:19:03.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Infra\\Registers\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Infra\\Registers\\Extensions.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Infra\\Registers\\Extensions.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Infra\\Registers\\Extensions.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:25:40.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarteiraRepository.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\RepositoryLayer\\CarteiraRepository.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\RepositoryLayer\\CarteiraRepository.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\RepositoryLayer\\CarteiraRepository.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\RepositoryLayer\\CarteiraRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:15:14.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Settings\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Settings\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Settings\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Settings\\SqlConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:15:54.505Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Program.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Program.cs",
               "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Program.cs",
-              "ToolTip": "C:\\hubs\\CARTEIRA-DIGITAL\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Program.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Program.cs",
               "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T12:37:47.929Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarteiraEndpoints.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Endpoints\\CarteiraEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Endpoints\\CarteiraEndpoints.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Endpoints\\CarteiraEndpoints.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Endpoints\\CarteiraEndpoints.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:42:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarteiraUseCase.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Application\\UseCase\\CarteiraUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Domain\\Application\\UseCase\\CarteiraUseCase.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Application\\UseCase\\CarteiraUseCase.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Domain\\Application\\UseCase\\CarteiraUseCase.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:34:54.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarteiraUseCase.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraUseCase.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraUseCase.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:39:48.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarteiraRepository.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraRepository.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraRepository.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraRepository.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\Ports\\OutBound\\ICarteiraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:31:14.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Dto\\UserRequest.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Dto\\UserRequest.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Dto\\UserRequest.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Dto\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:44:05.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MapperEndpoints.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Mappers\\MapperEndpoints.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Mappers\\MapperEndpoints.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Mappers\\MapperEndpoints.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\InBound\\REST\\Mappers\\MapperEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:46:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingEntity.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Mappers\\MappingEntity.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Mappers\\MappingEntity.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Mappers\\MappingEntity.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Mappers\\MappingEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:32:22.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Adapter\\OutBound\\Sql\\Entity\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:17:58.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\DomainModel\\UserModel.cs",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\DomainModel\\UserModel.cs",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\Domain\\Core\\DomainModel\\UserModel.cs",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\Domain\\Core\\DomainModel\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:33:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CARTEIRA-DIGITAL",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T20:24:27.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CARTEIRA-DIGITAL.csproj",
+              "DocumentMoniker": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "RelativeDocumentMoniker": "src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "ToolTip": "C:\\DevCSharp\\StoredProcedure-Carteira-Digital-API\\src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "RelativeToolTip": "src\\CARTEIRA-DIGITAL\\CARTEIRA-DIGITAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T20:24:30.149Z"
             }
           ]
         }
