@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CARTEIRA-DIGITAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7b72ab7595afc03f233ef76db63e9feb940f48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af5548fcbdddf061b6c957d05204a4251318fed")]
 [assembly: System.Reflection.AssemblyProductAttribute("CARTEIRA-DIGITAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CARTEIRA-DIGITAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
